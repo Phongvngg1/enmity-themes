@@ -1,6 +1,6 @@
 {
-    "name": "RoyalUndella",
-    "description": "A somewhat pink and blue theme, with an anime girl.",
+    "name": "Bronya",
+    "description": "A somewhat blue theme, with an anime girl.",
     "version": "1.6",
     "authors": [
       {
@@ -152,7 +152,7 @@
     },
     "background": {
       "blur": 0.1,
-      "url": "https://raw.githubusercontent.com/Phongvngg1/enmity-themes/main/Image/photo_2023-09-24_14-30-06.jpg",
+      "url": "https://raw.githubusercontent.com/Phongvngg1/enmity-themes/main/Image/Bronya.jpg",
       "alpha": 1.0
     }
   }
