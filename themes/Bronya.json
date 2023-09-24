@@ -4,8 +4,6 @@
     "version": "1.6",
     "authors": [
       {
-        "name": "mortyick",
-        "id": "705853948052897813"
       }
     ],
     "theme_color_map": {
@@ -18,8 +16,8 @@
         "#3d4858"
       ],
       "TEXT_NORMAL": [
-        "#FBFBFB",
-        "#2e3338"
+        "#0f0d0d",
+        "#fcfeff"
       ],
       "TEXT_MUTED": [
         "#60668b",
@@ -31,7 +29,7 @@
       ],
       "INTERACTIVE_HOVER": [
         "#dcddde",
-        "#2e3338"
+        "#fcfeff"
       ],
       "INTERACTIVE_ACTIVE": [
         "#6d7295",
@@ -114,7 +112,7 @@
         "#f2f2f2"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-        "#111111",
+        "#f7f7f7",
         "#ebedef"
       ],
       "CHANNELS_DEFAULT": [
@@ -131,17 +129,17 @@
       ]
     },
     "colours": {
-      "PRIMARY_DARK": "#747474",
-      "PRIMARY_DARK_100": "#FFFFFF",
-      "PRIMARY_DARK_200": "#FFFFFF",
-      "PRIMARY_DARK_300": "#d68c9e",
-      "PRIMARY_DARK_360": "#fcfdfc",
-      "PRIMARY_DARK_400": "#bebee3",
-      "PRIMARY_DARK_500": "#697eab",
-      "PRIMARY_DARK_600": "#306dc7",
-      "PRIMARY_DARK_630": "#24212f",
-      "PRIMARY_DARK_700": "#282634",
-      "PRIMARY_DARK_800": "#252234",
+      "PRIMARY_LIGHT": "#747474",
+      "PRIMARY_LIGHT_100": "#FFFFFF",
+      "PRIMARY_LIGHT_200": "#FFFFFF",
+      "PRIMARY_LIGHT_300": "#d68c9e",
+      "PRIMARY_LIGHT_360": "#fcfdfc",
+      "PRIMARY_LIGHT_400": "#bebee3",
+      "PRIMARY_LIGHT_500": "#697eab",
+      "PRIMARY_LIGHT_600": "#306dc7",
+      "PRIMARY_LIGHT_630": "#24212f",
+      "PRIMARY_LIGHT_700": "#282634",
+      "PRIMARY_LIGHT_800": "#252234",
       "BRAND_NEW": "#848bb3",
       "STATUS_RED": "#c18ea4",
       "STATUS_GREEN_600": "#87a2de",
