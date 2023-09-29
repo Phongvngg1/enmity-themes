@@ -1,9 +1,11 @@
 {
-    "name": "Bronya",
-    "description": "A somewhat blue theme, with an anime girl.",
+    "name": "RoyalUndella",
+    "description": "A somewhat pink and blue theme, with an anime girl.",
     "version": "1.6",
     "authors": [
       {
+        "name": "mortyick",
+        "id": "705853948052897813"
       }
     ],
     "theme_color_map": {
@@ -16,8 +18,8 @@
         "#3d4858"
       ],
       "TEXT_NORMAL": [
-        "#0f0d0d",
-        "#fcfeff"
+        "#FBFBFB",
+        "#2e3338"
       ],
       "TEXT_MUTED": [
         "#60668b",
@@ -29,7 +31,7 @@
       ],
       "INTERACTIVE_HOVER": [
         "#dcddde",
-        "#fcfeff"
+        "#2e3338"
       ],
       "INTERACTIVE_ACTIVE": [
         "#6d7295",
@@ -40,19 +42,19 @@
         "#c7ccd1"
       ],
       "BACKGROUND_PRIMARY": [
-        "#2869c9",
+        "#292538",
         "#ffffff"
       ],
       "BACKGROUND_SECONDARY": [
-        "#2869c9",
+        "#292538",
         "#f2f3f5"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-        "#2869c9",
+        "#292538",
         "#ebedef"
       ],
       "BACKGROUND_TERTIARY": [
-        "#306dc7",
+        "#2d2a3c",
         "#e3e5e8"
       ],
       "BACKGROUND_ACCENT": [
@@ -60,19 +62,19 @@
         "#747f8d"
       ],
       "BACKGROUND_FLOATING": [
-        "#374cbf",
+        "#211f2a",
         "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-        "#374cbf",
+        "#211f2a",
         "#f8f9f9"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-        "#2869c9",
+        "#292538",
         "#ffffff"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-        "#2869c9",
+        "#292538",
         "#ffffff"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
@@ -96,7 +98,7 @@
         "hsla(240, 7.7%, 2.5%, 0.08)"
       ],
       "SCROLLBAR_THIN_THUMB": [
-        "#2340de",
+        "#2a1858",
         "hsla(217, 7.6%, 33.5%, 0.3)"
       ],
       "SCROLLBAR_THIN_TRACK": [
@@ -104,7 +106,7 @@
         "hsla(0, 0%, 0%, 0)"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-        "#2340de",
+        "#2a1858",
         "#cccccc"
       ],
       "SCROLLBAR_AUTO_TRACK": [
@@ -112,7 +114,7 @@
         "#f2f2f2"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-        "#f7f7f7",
+        "#111111",
         "#ebedef"
       ],
       "CHANNELS_DEFAULT": [
@@ -129,17 +131,17 @@
       ]
     },
     "colours": {
-      "PRIMARY_LIGHT": "#747474",
-      "PRIMARY_LIGHT_100": "#FFFFFF",
-      "PRIMARY_LIGHT_200": "#FFFFFF",
-      "PRIMARY_LIGHT_300": "#d68c9e",
-      "PRIMARY_LIGHT_360": "#fcfdfc",
-      "PRIMARY_LIGHT_400": "#bebee3",
-      "PRIMARY_LIGHT_500": "#697eab",
-      "PRIMARY_LIGHT_600": "#306dc7",
-      "PRIMARY_LIGHT_630": "#24212f",
-      "PRIMARY_LIGHT_700": "#282634",
-      "PRIMARY_LIGHT_800": "#252234",
+      "PRIMARY_DARK": "#747474",
+      "PRIMARY_DARK_100": "#FFFFFF",
+      "PRIMARY_DARK_200": "#FFFFFF",
+      "PRIMARY_DARK_300": "#d68c9e",
+      "PRIMARY_DARK_360": "#fcfdfc",
+      "PRIMARY_DARK_400": "#bebee3",
+      "PRIMARY_DARK_500": "#697eab",
+      "PRIMARY_DARK_600": "#2d2a3c",
+      "PRIMARY_DARK_630": "#24212f",
+      "PRIMARY_DARK_700": "#282634",
+      "PRIMARY_DARK_800": "#252234",
       "BRAND_NEW": "#848bb3",
       "STATUS_RED": "#c18ea4",
       "STATUS_GREEN_600": "#87a2de",
@@ -154,4 +156,3 @@
       "alpha": 1.0
     }
   }
-  
